@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b5d13224-39c1-423a-b7f1-ee814d058b54" /> About Me
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b5d13224-39c1-423a-b7f1-ee814d058b54"/> About Me
 - 🌱  **I’m currently learning:** Spring Security (JWT), Docker basics, SQL performance tuning
 - 🛠   **Daily driver stack:** 
 - 🎯  **2025 Goal:** 
