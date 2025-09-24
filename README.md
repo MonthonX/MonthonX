@@ -58,8 +58,8 @@
        alt="Top languages" />
   <br/>
   <img height="165"
-       src="https://streak-stats.demolab.com?user=MonthonX&theme=transparent&hide_border=true"
-       alt="GitHub Streak" />
+     src="https://streak-stats.demolab.com?user=MonthonX&theme=transparent&hide_border=true&v=1"
+     alt="GitHub Streak" />
 </div>
 
 
