@@ -56,6 +56,15 @@
   <img height="165" src="https://streak-stats.demolab.com?user=MonthonX&theme=transparent&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
-
-
 ---
+
+## 🤝 Let’s Connect
+> **“Great products are built by great people working together.”**
+
+- <p align="left"> <a href="https://www.github.com/MonthonX" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
+- 🐦 DM me on [X/Twitter](⟪url⟫)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+</p>
