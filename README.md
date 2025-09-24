@@ -58,13 +58,29 @@
 
 ---
 
-## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
-
-- <p align="left"> <a href="https://www.github.com/MonthonX" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
+## 🤝 Connect Me
+> **“Success comes from perseverance — and I’m someone who never stops trying.”**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+  <a href="mailto:monthonainto@gmail.com" title="Email">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/FFFFFF" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/DD5144" />
+      <img src="https://cdn.simpleicons.org/gmail/DD5144" width="32" height="32" alt="Email"/>
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MonthonX" title="GitHub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
+      <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub"/>
+    </picture>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MonthonX&label=Profile%20views&color=0e75b6&style=flat"
+       alt="Profile views"/>
+</p>
+
