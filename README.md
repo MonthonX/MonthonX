@@ -53,7 +53,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonthonX&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=20" alt="Top Langs"/>
   <br/>
   <a href="https://git.io/streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com/?user=MonthonX&theme=transparent&hide_border=true&v=20" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MonthonX&theme=transparent&hide_border=true&v=21" alt="GitHub Streak (fallback)"/>
   </a>
 </div>
 
