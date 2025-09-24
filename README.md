@@ -55,11 +55,7 @@
   <br/> 
   <!-- error อยู่ -->
   <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=MonthonX&theme=transparent&hide_border=true&v=2) -->
-  <div align="center">
-  <img height="165"
-       src="https://streak-stats.demolab.com/?user=MonthonX&amp;theme=transparent&amp;hide_border=true&amp;v=2"
-       alt="GitHub Streak">
-</div>
+  <img height="165" src="https://streak-stats.demolab.com/?user=MonthonX&amp;theme=transparent&amp;hide_border=true&amp;v=2" alt="GitHub Streak">
 
 </div>
 
