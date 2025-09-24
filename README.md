@@ -65,18 +65,18 @@
   <tr>
     <td>
       <a href="mailto:monthonainto@gmail.com">
-        <img alt="Email: monthonainto@gmail.com"
-             src="https://img.shields.io/badge/Email-monthonainto%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+        <img alt="Email: monthonainto@gmail.com"  src="https://img.shields.io/badge/Email-monthonainto%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge">
       </a>
     </td>
     <td>
       <a href="https://github.com/MonthonX">
-        <img alt="GitHub: MonthonX"
-             src="https://img.shields.io/badge/GitHub-MonthonX-181717?logo=github&logoColor=white&style=for-the-badge">
+        <img alt="GitHub: MonthonX" src="https://img.shields.io/badge/GitHub-MonthonX-181717?logo=github&logoColor=white&style=for-the-badge">
       </a>
     </td>
     <td>
-      <img alt="Discord: monthon" src="https://img.shields.io/badge/Discord-monthon-5865F2?logo=discord&logoColor=white&style=for-the-badge">
+       <a href="#">
+         <img alt="Discord: monthon" src="https://img.shields.io/badge/Discord-monthon-5865F2?logo=discord&logoColor=white&style=for-the-badge">
+       </a>
     </td>
   </tr>
 </table>
