@@ -49,13 +49,14 @@
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MonthonX&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&v=30" alt="Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonthonX&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=30" alt="Top Langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MonthonX&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&v=999" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonthonX&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=999" alt="Top Langs"/>
   <br/>
   <a href="https://git.io/streak-stats">
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MonthonX&theme=transparent&hide_border=true&v=31" alt="GitHub Streak (fallback)"/>
+    <img height="165" src="https://streak-stats.demolab.com/?user=MonthonX&theme=transparent&hide_border=true&v=999" alt="GitHub Streak"/>
   </a>
 </div>
+
 
 ---
 
