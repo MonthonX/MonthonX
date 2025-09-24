@@ -62,30 +62,21 @@
 > **“Success comes from perseverance — and I’m someone who never stops trying.”**
 
 <p align="center">
-  <!-- Email -->
   <a href="mailto:monthonainto@gmail.com">
-    <img alt="Email: monthonainto@gmail.com"
-         src="https://img.shields.io/badge/Email-monthonainto%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+    <img alt="Email: monthonainto@gmail.com" src="https://img.shields.io/badge/Email-monthonainto%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
   &nbsp;
-  <!-- GitHub -->
   <a href="https://github.com/MonthonX">
-    <img alt="GitHub: MonthonX"
-         src="https://img.shields.io/badge/GitHub-MonthonX-181717?logo=github&logoColor=white&style=for-the-badge">
+    <img alt="GitHub: MonthonX" src="https://img.shields.io/badge/GitHub-MonthonX-181717?logo=github&logoColor=white&style=for-the-badge">
   </a>
   &nbsp;
-  <!-- Discord (ถ้าอยากโชว์ด้วย) -->
   <a href="#" title="Discord: monthon">
-    <img alt="Discord: monthon"
-         src="https://img.shields.io/badge/Discord-monthon-5865F2?logo=discord&logoColor=white&style=for-the-badge">
+    <img alt="Discord: monthon" src="https://img.shields.io/badge/Discord-monthon-5865F2?logo=discord&logoColor=white&style=for-the-badge">
   </a>
 </p>
 
-<!-- Profile views (โทนสวย-อ่านง่าย) -->
 <p align="center">
-  <img
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMonthonX&count_bg=%230E75B6&title_bg=%231F2937&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false"
-    alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MonthonX&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 
