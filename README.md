@@ -62,40 +62,30 @@
 > **“Success comes from perseverance — and I’m someone who never stops trying.”**
 
 <p align="center">
-  <a href="mailto:monthonainto@gmail.com" title="Email">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/FFFFFF" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/DD5144" />
-      <img src="https://cdn.simpleicons.org/gmail/DD5144" width="24" height="24" alt="Email"/>
-    </picture>
-    <span>&nbsp;monthonainto@gmail.com</span>
+  <!-- Email -->
+  <a href="mailto:monthonainto@gmail.com">
+    <img alt="Email: monthonainto@gmail.com"
+         src="https://img.shields.io/badge/Email-monthonainto%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
-
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-
-  <a href="https://github.com/MonthonX" title="GitHub">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
-      <img src="https://cdn.simpleicons.org/github/181717" width="24" height="24" alt="GitHub"/>
-    </picture>
-    <span>&nbsp;MonthonX</span>
+  &nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/MonthonX">
+    <img alt="GitHub: MonthonX"
+         src="https://img.shields.io/badge/GitHub-MonthonX-181717?logo=github&logoColor=white&style=for-the-badge">
   </a>
-
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-
-  <span title="Discord">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/FFFFFF" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/discord/5865F2" />
-      <img src="https://cdn.simpleicons.org/discord/5865F2" width="24" height="24" alt="Discord"/>
-    </picture>
-    <span>&nbsp;monthon</span>
-  </span>
+  &nbsp;
+  <!-- Discord (ถ้าอยากโชว์ด้วย) -->
+  <a href="#" title="Discord: monthon">
+    <img alt="Discord: monthon"
+         src="https://img.shields.io/badge/Discord-monthon-5865F2?logo=discord&logoColor=white&style=for-the-badge">
+  </a>
 </p>
 
+<!-- Profile views (โทนสวย-อ่านง่าย) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MonthonX&label=Profile%20views&color=0e75b6&style=flat-square"
-       alt="Profile views"/>
+  <img
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMonthonX&count_bg=%230E75B6&title_bg=%231F2937&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false"
+    alt="Profile views" />
 </p>
+
 
