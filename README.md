@@ -43,6 +43,7 @@
 ## ⭐ Featured Projects
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **Dream House (V1)** | Next.js · Spring Boot · PostgreSQL | A web application selecting house models: choose a design you like and Adjust certain materials in each room. Save your adjustments for future use. | Coming... |
+| **Dream House (V1)** | Next.js · Spring Boot · PostgreSQL | A web app for selecting house models: choose a design and **adjust** room materials, Save your adjustments for future use. | Coming... |
+| **Dream House (V2 — Planned)** | Next.js · Spring Boot · PostgreSQL | V1 + **contractor quotation** system — request quotes for **Adjust Materials**, contractors submit pricing & notes; export quotation as PDF. | TBD |
 
 ---
