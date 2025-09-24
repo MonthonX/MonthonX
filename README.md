@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/headerImg.jpg" alt="header image" width="1000"/>
+  <img src="./assets/headerImg.jpg" alt="header image"/>
 </p>
 
-<h1 align="center">Hi, I’m Monthon Ainto <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m Monthon Ainto <img height="48" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/lottie.json" /></h1>
