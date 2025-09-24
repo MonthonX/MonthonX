@@ -12,10 +12,10 @@
 
 ---
 
-## 🚀 About Me
-- 🌱   I’m currently learning **Spring Security (JWT), Docker basics, SQL performance tuning** 
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
-
+## 🚀 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b5d13224-39c1-423a-b7f1-ee814d058b54" /> About Me
+- 🌱  **I’m currently learning:** Spring Security (JWT), Docker basics, SQL performance tuning
+- 🛠   **Daily driver stack:** 
+- 🎯  **2025 Goal:** 
+- 📫  **Reach me:**
+  
 ---
