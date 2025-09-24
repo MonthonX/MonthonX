@@ -61,22 +61,31 @@
 ## 🤝 Let’s Connect
 > **“Success comes from perseverance — and I’m someone who never stops trying.”**
 
-<p align="center">
-  <a href="mailto:monthonainto@gmail.com">
-    <img alt="Email: monthonainto@gmail.com" src="https://img.shields.io/badge/Email-monthonainto%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://github.com/MonthonX">
-    <img alt="GitHub: MonthonX" src="https://img.shields.io/badge/GitHub-MonthonX-181717?logo=github&logoColor=white&style=for-the-badge">
-  </a>
-  &nbsp; &nbsp;
-  <a href="#" title="Discord: monthon">
-    <img alt="Discord: monthon" src="https://img.shields.io/badge/Discord-monthon-5865F2?logo=discord&logoColor=white&style=for-the-badge">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="mailto:monthonainto@gmail.com">
+        <img alt="Email: monthonainto@gmail.com"
+             src="https://img.shields.io/badge/Email-monthonainto%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MonthonX">
+        <img alt="GitHub: MonthonX"
+             src="https://img.shields.io/badge/GitHub-MonthonX-181717?logo=github&logoColor=white&style=for-the-badge">
+      </a>
+    </td>
+    <td>
+      <img alt="Discord: monthon" src="https://img.shields.io/badge/Discord-monthon-5865F2?logo=discord&logoColor=white&style=for-the-badge">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MonthonX&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=MonthonX&label=Profile%20views&color=0e75b6&style=flat-square"
+    alt="Profile views"/>
 </p>
+
 
 
