@@ -17,7 +17,7 @@
 - 🛠 **Daily driver stack:** Java, Spring Boot, REST APIs, PostgreSQL, Next.js, TypeScript, Axios
 - 🔧 **Tools:** Postman • Git • VS Code • IntelliJ IDEA • Eclipse • Android Studio 
 - 🏆 **Highlight:** Completed **Dreamhouse v1** (Spring Boot 3 + Next.js) — improving performance and adding features
-- 🎯 **2025 Goal:** Junior Full-stack Developer
+- 🎯 **Goal:** Junior Full-stack Developer
 - 📫 **Reach me:** [monthonainto@gmail.com](mailto:monthonainto@gmail.com)
 
 ---
