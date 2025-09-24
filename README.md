@@ -13,11 +13,12 @@
 ---
 
 ## 🚀 About Me
-- 🌱  **I’m currently learning:** Spring Security (JWT),  Next.js, PostgreSQL tuning
-- 🛠   **Daily driver stack:** Java, Spring Boot, REST APIs, PostgreSQL, Next.js, TypeScript, Axios
-- 🔧  **Tools:** Postman, Git, VS Code, IntelliJ, Eclipse, Android studio
-- 🏗️  **Highlight:** Building **Dreamhouse** (Spring Boot 3 + Next.js) — full-stack CRUD, JWT auth, Postgres
-- 🎯  **2025 Goal:** Full Stack Developer
-- 📫  **Reach me:** [monthonainto@gmail.com](mailto:monthonainto@gmail.com)
+- 🌱 **I’m currently learning:** Spring Security (JWT), Next.js App Router, PostgreSQL performance (indexes, EXPLAIN)
+- 🛠 **Daily driver stack:** Java, Spring Boot, REST APIs, PostgreSQL, Next.js, TypeScript, Axios
+- 🔧 **Tools:** Postman • Git • VS Code • IntelliJ IDEA • Android Studio
+- 🏆 **Highlight:** Completed **Dreamhouse v1** (Spring Boot 3 + Next.js) — improving performance and adding features
+- 🎯 **2025 Goal:** Junior Full-stack Developer
+- 📫 **Reach me:** [monthonainto@gmail.com](mailto:monthonainto@gmail.com)
+
   
 ---
