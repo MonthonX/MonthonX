@@ -48,7 +48,14 @@
 
 ---
 
-## 📈 GitHub Stats <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=MonthonX&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&custom_title=Monthon%20Ainto%27s%20GitHub%20Stats" alt="Monthon Ainto's GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonthonX&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" /> <br/> <img height="165" src="https://streak-stats.demolab.com?userMonthonX&theme=transparent&hide_border=true&v=1" alt="GitHub Streak" /></div>
+## 📈 GitHub Stats 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MonthonX&show_icons=true&theme=transparent&hide_border=true&cache_seconds=7200&v=1001" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonthonX&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=7200&v=1001" alt="Top Langs"/>
+  <br/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=MonthonX&theme=transparent&hide_border=true&v=1001" alt="GitHub Streak"/>
+</div>
+
 
 
 ---
