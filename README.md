@@ -53,7 +53,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MonthonX&show_icons=true&theme=transparent&hide_border=true&cache_seconds=7200&v=1001" alt="Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonthonX&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=7200&v=1001" alt="Top Langs"/>
   <br/>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MonthonX&theme=transparent&hide_border=true&v=2001" alt="Stats (lite)"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MonthonX&theme=transparent&hide_border=true&v=1003" alt="GitHub Streak (fallback)"/>
 </div>
 
 
