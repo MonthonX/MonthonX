@@ -58,7 +58,7 @@
 
 ---
 
-## 🤝 Connect Me
+## 🤝 Let’s Connect
 > **“Success comes from perseverance — and I’m someone who never stops trying.”**
 
 <p align="center">
@@ -66,21 +66,36 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/FFFFFF" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/DD5144" />
-      <img src="https://cdn.simpleicons.org/gmail/DD5144" width="32" height="32" alt="Email"/>
+      <img src="https://cdn.simpleicons.org/gmail/DD5144" width="24" height="24" alt="Email"/>
     </picture>
+    <span>&nbsp;monthonainto@gmail.com</span>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
   <a href="https://github.com/MonthonX" title="GitHub">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
-      <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub"/>
+      <img src="https://cdn.simpleicons.org/github/181717" width="24" height="24" alt="GitHub"/>
     </picture>
+    <span>&nbsp;MonthonX</span>
   </a>
+
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <span title="Discord">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/FFFFFF" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/discord/5865F2" />
+      <img src="https://cdn.simpleicons.org/discord/5865F2" width="24" height="24" alt="Discord"/>
+    </picture>
+    <span>&nbsp;monthon</span>
+  </span>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MonthonX&label=Profile%20views&color=0e75b6&style=flat"
+  <img src="https://komarev.com/ghpvc/?username=MonthonX&label=Profile%20views&color=0e75b6&style=flat-square"
        alt="Profile views"/>
 </p>
 
