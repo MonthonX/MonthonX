@@ -54,7 +54,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonthonX&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" /> 
   <br/> 
   <!-- error อยู่ -->
-  <img height="165" src="https://streak-stats.demolab.com?userMonthonX&theme=transparent&hide_border=true&v=1" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=MonthonX&theme=transparent&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
 ---
