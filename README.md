@@ -53,10 +53,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MonthonX&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&custom_title=Monthon%20Ainto%27s%20GitHub%20Stats" alt="Monthon Ainto's GitHub stats" /> 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonthonX&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" /> 
   <br/> 
-  <!-- error อยู่ -->
- <a href="https://git.io/streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com/?user=MonthonX&amp;theme=transparent&amp;hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img height="165" src="https://streak-stats.demolab.com/?user=MonthonX&amp;theme=transparent&amp;hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -85,9 +82,7 @@
 </table>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=MonthonX&label=Profile%20views&color=0e75b6&style=flat-square"
-    alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MonthonX&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 
