@@ -53,7 +53,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MonthonX&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&custom_title=Monthon%20Ainto%27s%20GitHub%20Stats" alt="Monthon Ainto's GitHub stats" /> 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonthonX&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" /> 
   <br/> 
-<img height="165" src="https://streak-stats.demolab.com/?user=MonthonX&amp;theme=transparent&amp;hide_border=true" alt="GitHub Streak" />
+<a href="https://streak-stats.demolab.com/?user=MonthonX&theme=transparent&hide_border=true">
+  <img height="165"
+       src="https://streak-stats.demolab.com/?user=MonthonX&theme=transparent&hide_border=true&cache_seconds=21600&v=2025-09-26"
+       alt="GitHub Streak (cached)" />
+</a>
 </div>
 
 ---
