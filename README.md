@@ -75,7 +75,6 @@
     </td>
     <td>
        <a href="#">
-         <img alt="Discord: monthon" src="https://img.shields.io/badge/Discord-monthon-5865F2?logo=discord&logoColor=white&style=for-the-badge">
        </a>
     </td>
   </tr>
