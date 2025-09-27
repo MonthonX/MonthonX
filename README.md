@@ -2,7 +2,7 @@
   <img src="./assets/headerImg.jpg" alt="header image"/> 
   <!-- credit image photo:Paul Pastourmatzis -->
   <!-- https://images.unsplash.com/photo-1463725876303-ff840e2aa8d5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D -->
-</p> 
+</p>  
 
 <h1 align="center">Hi, I’m Monthon Ainto <img height="30" src="./assets/512.gif" /></h1>
 
