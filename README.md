@@ -24,8 +24,6 @@
 
 ---
 
----
-
 ## 🧰 Tech Stack & Tools
 <div align="center">
 
@@ -38,7 +36,6 @@
 | Tools & IDEs | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white) ![pgAdmin 4](https://img.shields.io/badge/pgAdmin%204-316192?logo=postgresql&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 
 </div>
-
 
 ---
 
